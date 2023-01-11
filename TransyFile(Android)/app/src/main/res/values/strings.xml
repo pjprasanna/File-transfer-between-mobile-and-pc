@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TransyFile</string>
+    <string name="ip_address">IP Address</string>
+    <string name="send">Send</string>
+    <string name="no_files_found">No Files Found</string>
+    <string name="receive">Receive</string>
+</resources>
